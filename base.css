@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'ico-fonts';
+  src:url('fonts/ico-fonts.eot?-25452q');
+  src:url('fonts/ico-fonts.eot?#iefix-25452q') format('embedded-opentype'),
+    url('fonts/ico-fonts.woff?-25452q') format('woff'),
+    url('fonts/ico-fonts.ttf?-25452q') format('truetype'),
+    url('fonts/ico-fonts.svg?-25452q#ico-fonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'ico-fonts';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-html5:before {
+    content: "\e60d";
+}
+.icon-html5:before {
+    content: "\e60d";
+}
+.icon-linkedin:before {
+    content: "\e60b";
+}
+.icon-linkedin:before {
+    content: "\e60b";
+}
+.icon-apple:before {
+    content: "\e609";
+}
+.icon-github3:before {
+    content: "\e608";
+}
+.icon-youtube4:before {
+    content: "\e607";
+}
+.icon-youtube4:before {
+    content: "\e607";
+}
+.icon-twitter:before {
+    content: "\e605";
+}
+.icon-facebook2:before {
+    content: "\e604";
+}
+.icon-google-plus2:before {
+    content: "\e603";
+}
+.icon-google-plus:before {
+    content: "\e602";
+}
+.icon-video-camera:before {
+    content: "\e601";
+}
+.icon-home:before {
+    content: "\e600";
+}
