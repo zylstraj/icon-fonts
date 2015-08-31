@@ -17,7 +17,7 @@
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
-	font-size: 60px;
+	font-size: 100px;
 
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
@@ -68,13 +68,55 @@
 }
 a {
 	text-decoration: none;
-	color: red;
-}
-a:hover {
-	color: green;
+	color: black;
 }
 a:visited {
 	text-decoration: none;
+}
+.icon-html5:hover {
+	color: black;
+}
+.icon-facebook2:hover {
+	color: blue;
+}
+.icon-home:hover {
+	color: red;
+}
+.icon-youtube4:hover {
+	color: red;
+}
+.icon-github3:hover {
+	color: orange;
+}
+.icon-skype:hover {
+	color: blue;
+}
+.icon-linkedin:hover {
+	color: blue;
+}
+.icon-google-plus2:hover {
+	color: red;
+}
+.icon-google-plus:hover {
+	color: red;
+}
+.icon-apple:hover {
+	color: silver;
+}
+.icon-html5:hover {
+	color: yellow;
+}
+.icon-video-camera:hover {
+	color: purple;
+}
+.icon-twitter:hover {
+	color: blue;
+}
+.icon-twitter3:hover {
+	color: blue;
+}
+.icon-paypal:hover {
+	color: yellow;
 }
 .organizeIcons {
 	float: left;
@@ -83,4 +125,9 @@ a:visited {
 }
 h1 {
 	text-align: center;
+	font-family: Helvetica;
+	text-transform: uppercase;
+}
+body {
+	background-color: #D3D3D3;
 }
